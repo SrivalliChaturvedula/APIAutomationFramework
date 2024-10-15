@@ -1,30 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6797fde-36d9-4f75-84d1-db6649ce75cb" name="Changes" comment="" />
+    <list default="true" id="b6797fde-36d9-4f75-84d1-db6649ce75cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure_result/04102d27-07bb-4e27-901b-73a983515146-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/05812acd-d69f-4d1e-b042-6ec9338d6f41-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/12ebef90-59f3-49cd-86b6-90e22906b408-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/14914d03-952c-4ff0-99d8-bd4f1cee2a54-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/14db58b2-da7e-449a-b36e-38e8f92f9f99-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/15c94437-5774-413c-8d0e-6a5a34088d0f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/165e5b81-3d3a-410b-b82a-e6393005671a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/1a4bd643-ebe8-4310-9fdf-4f1fade0870b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/1d153352-eae9-41eb-8800-42f0ea92bf47-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/1deee7a6-b2c7-4afe-ac98-c351121f7d3b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/20634eaa-92bc-4820-a589-f7eab9f68592-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/209aaf63-59cd-46e0-ba06-c823ac834f23-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/25977d3f-e709-47c5-a161-b959c231d95d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2839fdf7-2407-48fc-9a80-1f27c255d167-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2a0a5e63-6257-44ca-81f5-98a93bb080b4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2f801349-1d42-4b94-a6a2-7969a0c56700-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/3231e1e0-5c97-4e66-91f4-2117347f5905-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/3ef8c718-162d-49b0-a9b2-e3020e9aae0e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/4251d08e-4547-4019-a3d5-0a42189967a8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/4b45ebae-51ae-490b-b226-2c1610ad5d39-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/4bd6d43c-e691-4a14-8182-c6a36101951e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/4c02622a-8dcd-4a0a-8587-24af686cea0e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/4e2fb26f-32a9-45fa-9ca2-3587f6678cbe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/4edec6a3-2e18-4505-bc58-0967074e6d6f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/53132ba2-d107-4b07-b3e4-8e6c38df7681-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/56ff2490-91d0-44b8-95a9-53388ca573a2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/5a189205-8d54-42a9-97a5-d48d35c73ee4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/5b2d6d50-cc97-47a3-9826-e82a891dbe3d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/5c453907-86ea-4ca5-8226-f215f8e5d32f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/5f68b298-3f17-4ab6-b6fe-ff113191216c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/6357a8a1-ebca-429c-b6b0-d3e1f48b293e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/6393775f-3f05-4c84-86a0-742e949ae212-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/66c7feae-f423-4c75-b57a-bf4608f267e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/699017c3-0f69-44a1-b236-0e2bab011235-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/69963bbd-da2f-42d7-b489-14840837cd00-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/69f8e699-dc61-4874-ae85-f72ca259a29c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/6e680104-41b4-419e-9792-bf10c3ad535e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/7111d639-9e90-4a2f-83db-bccfa6a4a192-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/76cd733d-eb7d-4b2d-b155-9b736df0e135-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/78b220e7-ad5c-40d6-bbb1-203a5dc51041-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/818be963-f544-4773-9d02-691ee4464610-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/831176bf-48a3-448c-b7be-0901d1ad497a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/83872742-6eb8-4261-af0e-f45b95684a6b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/83b3f921-d888-4805-b1f6-d4be628dde3e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/841547c9-c655-4b83-a1d3-d36fdb49af6d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/84e06456-7d3d-4f93-9205-7d33cc50e1cf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/889dbcd4-65fd-40b1-8b22-6d7f06e9e192-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/889ec2e8-4e8e-49ca-b526-94eaf5c9308d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/88ac947c-723c-449d-993c-e96f0c731fd3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/8da64d0e-516d-41b2-b95d-12bc40a13449-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/8fb23717-062c-4564-b1c0-15a94f0158c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/91752cbd-da82-46b2-80c9-64d34ed115c6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/9320f47b-2e8a-4cb7-8dcd-c681040e8ad9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/9681b1d6-8454-49ea-9155-4b1d648833a7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/99d31c72-3b71-48cf-b08c-e0d379ba1caf-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/9b3f6052-130f-488f-b40b-8576902ec1f6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/9e64d2d0-c8ea-4f03-be78-9d4bbebc80dc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/9f8fed15-6888-42b0-9391-f460186761e4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a03dce0a-eaed-4b94-8f3a-63c8b0b46bbc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a58b8c60-93b0-4a8b-b893-db1b49fd9ff2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a5c49eea-755a-4710-a8b6-9751bc18af41-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a89d165c-7480-4383-ae41-8b4733864c87-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a9352782-42b5-4ce1-a3ff-45cc78094b9a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/ac73ce06-2c3c-49b9-951a-d1402852886e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/ad78f24d-6533-45f0-b99c-671bbf8ee84d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/b55cc352-ee07-49f8-8f62-7874c4079ae3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/b60ef5a4-2398-4859-9299-2d2648b347f4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/b9c77844-72eb-4a28-8f6b-1034d82938e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/c1024867-3aae-4cc9-bc1a-2571edd5ad04-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/c4228d44-2497-4e59-9dd7-15fd66eb1138-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/c53b2468-2ddc-409d-a03d-8d7855f40697-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/c6ae76f2-dd70-4210-bd31-6c1debc31893-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/ca1151a5-dd05-4cf1-b39a-29c2cb25d64f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/cc5d52e1-cfcd-46f5-8fdc-b61491752e59-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/cd8d05ee-8c61-4408-b2c6-149c32cb7619-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/ce9e546c-6f20-4cb0-9c79-a579bf750b00-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/cf7ad8b0-c05e-4cbe-924e-be4d6d0db773-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/d059d4d2-3e3c-4914-90d6-e6dedc91caca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/d2c0a67a-e1ba-4d01-b9f3-5b147611b694-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/d9f38f66-a0c7-44d0-bb70-1a76e4ef6a76-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/d9fdfbff-dbcb-44f2-b9bb-8fa2252cf912-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/da5e761d-ff1e-4c03-ab17-51259a7909df-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/db88d1d3-d4c6-4d01-bff9-16b9cfefcc43-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/def2a219-1bab-43b4-b2f6-80c1851b0c2e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e2e65a1f-ee67-41e2-ae1d-b144f907c4c7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e2f236af-b429-4cba-b0d9-f77fa04bbf4a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e3a22e1c-0a08-44ac-91e0-0360cbaa6c47-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e3c9ce4c-8af7-4153-a436-4a9a0fc4f2d7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e7d1030c-2409-473e-b98a-f7ed981e2f1e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e8df0a3c-851d-4786-858a-3e6970d1bc61-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/f317d9f7-51a7-43ad-b196-64771fdfdd73-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/f6ebb967-f3e4-4cc8-bf92-4acdaecc5661-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/facfa1ba-8af1-427e-b623-ba69f58a58f2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/fd954087-8bd7-4f81-b0be-f90d81911e64-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/ffaaa19b-68c1-4c5e-886c-04e655f94b2a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_booking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_booking_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_crud_better.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/api_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SrivalliChaturvedula&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SrivalliChaturvedula/APIAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;1f82a735-6258-46ae-b4d9-1c0ea285052b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2nQQxSgQrc8xYMH73gqm75UpH45" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for conftest.test_get_booking_id.executor": "Run",
+    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative.executor": "Run",
+    "Python tests.Python tests for test_crud_better.TestCRUDBooking.test_delete_booking_id.executor": "Run",
+    "Python tests.Python tests for test_crud_better.TestCRUDBooking.test_update_booking_id_token.executor": "Run",
+    "Python.conftest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Chatu/PycharmProjects/APIAutomationFramework"
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_crud_better.TestCRUDBooking.test_update_booking_id_token">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for conftest.test_get_booking_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;conftest.test_get_booking_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/crud" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_create_booking.TestCreateBooking.test_create_booking_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_crud_better.TestCRUDBooking.test_delete_booking_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/crud" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crud_better.TestCRUDBooking.test_delete_booking_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_crud_better.TestCRUDBooking.test_update_booking_id_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests/crud" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_crud_better.TestCRUDBooking.test_update_booking_id_token&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_crud_better.TestCRUDBooking.test_update_booking_id_token" />
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python tests.Python tests for conftest.test_get_booking_id" />
+        <item itemvalue="Python tests.Python tests for test_crud_better.TestCRUDBooking.test_delete_booking_id" />
+        <item itemvalue="Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,6 +275,20 @@
       <option name="presentableId" value="Default" />
       <updated>1728903065843</updated>
     </task>
+    <task id="LOCAL-00001" summary="sample test2 is added">
+      <option name="closed" value="true" />
+      <created>1728904890660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728904890660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="sample test2 is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="sample test2 is added" />
   </component>
 </project>
